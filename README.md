@@ -128,3 +128,8 @@ The scheme of interaction:
     [Router setToRootView:vc andAnimationOptions:UIViewAnimationOptionTransitionFlipFromLeft];
 }
 ```
+
+## How work navigation in app using CoreRouter
+
+[Link on full size picture](https://raw.githubusercontent.com/HackDeveloperUA/CoreRouter/master/Documentation/HowWorkNavigationWithRouter.png)
+![alt text](https://raw.githubusercontent.com/HackDeveloperUA/CoreRouter/master/Documentation/HowWorkNavigationWithRouter.png)
